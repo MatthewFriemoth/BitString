@@ -1,6 +1,7 @@
 /******************************************************************
-BitString Project; Booths therom to multiply bianary numbers
-Matthew Friemoth;
+BitString Project
+Matthew Friemoth
+CS-441 Computer Architecture
 This source file uses C++ to explicitly show how booth's theorem is implemented for binary numbers.
 *******************************************************************/
 
