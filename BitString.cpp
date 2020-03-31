@@ -2,7 +2,7 @@
 BitString Project
 Matthew Friemoth
 CS-441 Computer Architecture
-This was modified to accomidate "Prime Addition" where only the first half of the BitString is changed.
+This class was modified to accomidate "Prime Addition" where only the first half of the BitString is changed.
 *******************************************************************/
 
 
