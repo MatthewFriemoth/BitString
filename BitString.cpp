@@ -23,7 +23,7 @@ BitString::BitString(int _numBits)
 /*
 	Constructor that creates a binary string from a character string of 1s and 0s
 */
-BitString::BitString(std::string ref_Bits)
+BitString::BitString(std::string ref_Bits) 
 {
 	this->numBits = ref_Bits.length();
 	this->bits = new bool[numBits] {0};
